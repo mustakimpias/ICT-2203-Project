@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title> Responsive Registration Form in PHP</title>
+    <title>Registration Form</title>
      <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 
